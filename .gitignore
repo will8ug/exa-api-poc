@@ -1,0 +1,17 @@
+node_modules/
+dist/
+coverage/
+badges/
+*.tsbuildinfo
+
+.vscode/
+.idea/
+.claude/
+.agents/
+
+.DS_Store
+.env
+
+/.worktrees/
+/.scratch/
+
